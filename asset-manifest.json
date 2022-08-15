@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio-website/static/css/main.a178adba.css",
+    "main.js": "/portfolio-website/static/js/main.47b91150.js",
+    "static/media/cowboybebop.png": "/portfolio-website/static/media/cowboybebop.0c5c0050069d65cfa26a.png",
+    "static/media/hangman.jpg": "/portfolio-website/static/media/hangman.378bf0305966b7d32642.jpg",
+    "static/media/react.svg": "/portfolio-website/static/media/react.a041582ca86da4b007fd6e20a648e472.svg",
+    "static/media/python.svg": "/portfolio-website/static/media/python.a84d24c20069ba62ced2019a250cac2d.svg",
+    "static/media/sql.svg": "/portfolio-website/static/media/sql.4e4de977b862063dc2b6656912e9b274.svg",
+    "static/media/cpp.svg": "/portfolio-website/static/media/cpp.dd3d8671c481a064340e15f9623053b4.svg",
+    "static/media/github.svg": "/portfolio-website/static/media/github.7df0aea03f7f43146bd129d76e5327ba.svg",
+    "static/media/javascript.svg": "/portfolio-website/static/media/javascript.fabe1e9b193a5b86c7467a70ba5d736a.svg",
+    "index.html": "/portfolio-website/index.html",
+    "static/media/css.svg": "/portfolio-website/static/media/css.db7dfd1247623e1e9223d8ef28a37432.svg",
+    "static/media/html.svg": "/portfolio-website/static/media/html.a026abbb678246d70ee9b70e4aee972c.svg",
+    "main.a178adba.css.map": "/portfolio-website/static/css/main.a178adba.css.map",
+    "main.47b91150.js.map": "/portfolio-website/static/js/main.47b91150.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a178adba.css",
+    "static/js/main.47b91150.js"
+  ]
+}
