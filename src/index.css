@@ -28,3 +28,19 @@
         hsla(242, 74%, 61%, 0.8)
     ) !important;
 }
+
+h1 {
+    font-family: 'Major Mono Display', monospace;
+}
+
+h2 {
+    font-family: 'Share Tech Mono', monospace;
+}
+
+p {
+    font-family: 'Space Mono', monospace;
+}
+
+a {
+    font-family: 'Share Tech Mono', monospace;
+}

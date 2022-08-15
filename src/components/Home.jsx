@@ -8,8 +8,8 @@ const Home = () => {
         {/* container */}
         <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full'>
             <p className='text-[#F4F0DB]'>this is</p>
-            <h1 className='text-4xl sm:text-7xl font-bold text-[#C252E1]'>zav.ier</h1>
-            <h2 className='text-4xl sm:text-7xl font-bold text-[#F4F0DB]'>a student</h2>
+            <h1 className='text-4xl sm:text-7xl font-bold text-[#C252E1]'>zav.ier()</h1>
+            <h2 className='text-4xl sm:text-7xl font-bold text-[#F4F0DB]'>student</h2>
             <p className='text-[#F4F0DB] py-4 max-w-[700px]'>a full-time student pursuing degree in computer science. looking to gain experience
                 in the professional field through internships.
             </p>
