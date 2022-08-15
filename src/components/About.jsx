@@ -18,9 +18,11 @@ const About = () => {
                     </div>
                     <div>
                         <p>i'm a full-time student pursuing my degree in computer science.
-                            looking to break into the tech field. many interests ranging 
-                            from fashion, to sports, to cooking, even anime! my tech interests
-                            include data science, backend engineering,  
+                            looking to break into the tech field. i have many interests ranging 
+                            from fashion, to sports, to cooking, and even anime! my tech interests
+                            include data science, backend engineering, and machine learning. below
+                            are some additional skills - languages and frameworks, i am comfortable 
+                            working with as well as projects i have completed.
                         </p>
                     </div>
                 </div>
